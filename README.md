@@ -6,3 +6,4 @@ The API contains a single endpoint at this time, /contact which is used to send 
 
 To see this functioning, http://addisxn.me/#/contact - my personal website built using Flutter
 
+Secrets such as the Discord webhook url are managed in an appsettings.json file (intentionally excluded here)
